@@ -311,6 +311,6 @@ http://wfs.geosampa.prefeitura.sp.gov.br:80/geoserver/geoportal/ows?service=WFS&
 http://wfs.geosampa.prefeitura.sp.gov.br:80/geoserver/geoportal/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=geoportal:lote_cidadao&cql_filter=cd_setor_fiscal='308'&outputFormat=SHAPE-ZIP
 http://wfs.geosampa.prefeitura.sp.gov.br:80/geoserver/geoportal/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=geoportal:lote_cidadao&cql_filter=cd_setor_fiscal='309'&outputFormat=SHAPE-ZIP
 http://wfs.geosampa.prefeitura.sp.gov.br:80/geoserver/geoportal/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=geoportal:lote_cidadao&cql_filter=cd_setor_fiscal='310'&outputFormat=SHAPE-ZIP
-![image](https://user-images.githubusercontent.com/32514483/213758464-dbcd9753-1ff9-4206-bb77-67e0673149a3.png)
+
 
 
